@@ -1,5 +1,4 @@
 class ForagerBee extends Bee {
-  // TODO..
   constructor () {
     super();
     this.age = 10;

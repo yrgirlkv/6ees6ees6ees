@@ -1,5 +1,4 @@
 class HoneyMakerBee extends Bee {
-  // TODO..
   constructor () {
     super();
     this.age = 10;
