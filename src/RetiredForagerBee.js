@@ -1,3 +1,5 @@
-class RetiredForagerBee {
-  // TODO..
-};
+class RetiredForagerBee extends ForagerBee {
+  constructor () {
+    super();
+  }
+}
